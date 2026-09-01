@@ -39,9 +39,29 @@ Describe the turbulence model here, if applicable.
 
 Describe the droplet trajectory algorithm here.
 
+**Droplet Drag Model:**
+
+Describe the droplet drag model used here.
+
+**Supercooled Large Droplet (SLD) Effects:**
+
+Describe any SLD effects considered, such as droplet deformation, breakup, and splashing. If none are considered, please state this explicitly.
+
 **Thermodynamic Algorithm:**
 
 Describe the thermodynamic algorithm here.
+
+**HTC Computation Method:**
+
+Describe how the heat transfer coefficient (HTC) is calculated.
+
+**Ice Density:**
+
+State whether the ice density is constant or variable and provide the value or calculation method used.
+
+**Surface Roughness:**
+
+State whether local or constant roughness is applied to the geometry and provide the roughness height used for the NACA 0012 cases.
 
 **Surface Grid Deformation Algorithm:**
 
